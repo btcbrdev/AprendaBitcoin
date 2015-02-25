@@ -3,14 +3,14 @@ Este tutorial te ensinará a instalar um Full Node Bitcoin utilizando um sistema
 ###Tópicos:###
 
 1. Baixando a blockchain mais atualizada (via Torrent).
-  1. [Tutorial Rápido](#topic1-rapido)
-  2. [Tutorial Explicado](#topic1-explicado)
+  - [Tutorial Rápido](#topic1-rapido)
+  - [Tutorial Explicado](#topic1-explicado)
 2. Baixando o cliente Bitcoin original.
-  1. [Tutorial Rápido](#topic2-rapido)
-  2. [Tutorial Explicado](#topic2-explicado)
+  - [Tutorial Rápido](#topic2-rapido)
+  - [Tutorial Explicado](#topic2-explicado)
 3. Importando a Blockchain no cliente Bitcoin.
-  1. [Tutorial Rápido](#topic3-rapido)
-  2. [Tutorial Explicado](#topic3-explicado)
+  - [Tutorial Rápido](#topic3-rapido)
+  - [Tutorial Explicado](#topic3-explicado)
 4. Liberando a porta do modem
 5. Cadastrando no [BitNodes](https://getaddr.bitnodes.io/)
 6. [Referências](#referencias)
