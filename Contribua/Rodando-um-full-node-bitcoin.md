@@ -37,7 +37,7 @@ Depois de terminar a instalação, baixe esse arquivo: [bootstrap.dat.torrent](h
 O arquivo é bem pesado e vai demorar um bom tempo para baixar, mas lembre-se que isso é **extremamente necessário** para contribuir com a segurança e o funcionamento do Bitcoin. Enquanto o torrent não termina de baixar, [vamos para o próximo passo](#topic2-explicado).
 
 ### 2. Baixando o cliente Bitcoin original ###
-
+![Baixando o cliente bitcoin original](http://i.imgur.com/UNBa2ha.png)
 #### <a name="topic2-rapido"></a> Tutorial Rápido ####
 1. Baixe o cliente oficial do Bitcoin [nesta página](https://bitcoin.org/pt_BR/download) e instale.
 2. [Próximo passo!](#topic3-rapido)
