@@ -2,7 +2,7 @@ Este tutorial te ensinará a instalar um Full Node Bitcoin utilizando um sistema
 
 ###Tópicos:###
 
-1. Baixando a blockchain mais atualizada (via Torrent).
+1. Baixando a Blockchain mais atualizada (via Torrent).
   - [Tutorial Rápido](#topic1-rapido)
   - [Tutorial Explicado](#topic1-explicado)
 2. Baixando o cliente Bitcoin original.
@@ -53,7 +53,7 @@ Basta clicar em "Ok" e prosseguir. **Não se esqueça de, em caso de abrir o cli
 
 Você já está preparado para o [próximo passo](#topic3-explicado)!
 
-### 3. Importando a Block Chain no cliente Bitcoin. ###
+### 3. Importando a Blockchain no cliente Bitcoin. ###
 
 #### <a name="topic3-rapido"></a> Tutorial Rápido ####
 1. Após terminar de baixar o arquivo *bootstrap.dat.torrent*:
