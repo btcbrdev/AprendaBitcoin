@@ -46,6 +46,11 @@ O arquivo é bem pesado e vai demorar um bom tempo para baixar, mas lembre-se qu
 
 Agora precisamos baixar o cliente oficial do Bitcoin no nosso computador. Se você ainda não o possui, vá na página oficial do Bitcoin ([clicando aqui](https://bitcoin.org/pt_BR/download)) e baixe o cliente de acordo com o seu sistema operacional. Depois de baixar, instale o cliente na sua máquina.
 
+Caso você abra o cliente Bitcoin depois de instalado para ver como é e a seguinte mensagem apareça:
+![](http://i.imgur.com/dt3ZhkU.png)
+
+Basta clicar em "Ok" e prosseguir. **Não se esqueça de, em caso de abrir o cliente Bitcoin para ver como é, fechá-lo completamente antes de avançar para o próximo passo.**
+
 Você já está preparado para o [próximo passo](#topic3-explicado)!
 
 ### 3. Importando a Block Chain no cliente Bitcoin. ###
